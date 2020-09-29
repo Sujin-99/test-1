@@ -9,4 +9,8 @@
 
 그리고 궁금하기도 했다. 이게 대체 뭔지, 무슨 역할인지.
 
-'''function add(x, y) {return x+y;}'''
+<pre>
+<code>
+function add(x, y) {return x+y;}
+</code>
+</pre>
